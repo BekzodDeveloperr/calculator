@@ -11,7 +11,7 @@ namespace Calculator.Clasess
         public int FirstNumber { get; set; }
         public int SecondNumber { get; set; } 
         public string Operation { get; set; } 
-
+// Nimadir nimadir
         public void GetInputs()
         {
             Console.WriteLine("Type 1st number: ");
