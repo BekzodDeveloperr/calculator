@@ -1,0 +1,15 @@
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\bekzod pc\Desktop\Mohirdev\Calculator\bin\Debug\net7.0\Calculator.exe
+D:\bekzod pc\Desktop\Mohirdev\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\bekzod pc\Desktop\Mohirdev\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+D:\bekzod pc\Desktop\Mohirdev\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\bekzod pc\Desktop\Mohirdev\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+D:\bekzod pc\Desktop\Mohirdev\Calculator\obj\Debug\net7.0\ref\Calculator.dll
